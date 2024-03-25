@@ -1,1 +1,2 @@
 # Mimi-Training
+Mimi editing 
